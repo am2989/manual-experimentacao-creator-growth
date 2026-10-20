@@ -1,1 +1,0 @@
-# manual-experimentacao-creator-growth
