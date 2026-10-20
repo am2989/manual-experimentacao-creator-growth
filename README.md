@@ -8,7 +8,7 @@ O objetivo é substituir o "achismo" da pauta por um método de experimentação
 
 ## Documento de entrega
 
-- Manual completo (Google Docs, acesso público): **[COLAR AQUI O LINK PÚBLICO]**
+- Manual completo (Google Docs, acesso público): **[https://github.com/am2989/manual-experimentacao-creator-growth/]**
 - Versão em Markdown neste repositório: [`MANUAL.md`](MANUAL.md)
 
 ## Estrutura do repositório
@@ -77,4 +77,4 @@ Cada ciclo termina com uma ficha de registo de aprendizado ([`registro_aprendiza
 
 ## Autoria
 
-Alda Marlene Anjo Benta, desafio criativo do bootcamp DIO.
+Alda Benta, desafio criativo do bootcamp DIO.
